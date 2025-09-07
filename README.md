@@ -8,7 +8,7 @@ The dataset used in this project is the [COVID-19 Chest X-ray dataset](https://w
 
 #### Techniques Used:
 1. **K-Nearest Neighbors (KNN) Algorithm**: KNN is a simple and effective algorithm used for classification problems.
-2. **Centroids for Feature Exteraction**: centroids is used to extract features from data
+2. **Centroids for Feature Extraction**: centroids is used to extract features from data
 3. **Swarm Optimization (Ant Colony) for Feature Selection**: Swarm optimization is utilized for feature selection, helping in identifying the most relevant features for classification.
 4. **Linear Discriminant Analysis (LDA) for Feature Reduction**: LDA is used to reduce the dimensionality of the feature space while preserving the class discriminatory information.
 
